@@ -1,0 +1,317 @@
+[
+  {
+    "id": 1,
+    "author": "Sal Kingcote",
+    "title": "Big Business",
+    "year_of_pub": null,
+    "lang": "Somali",
+    "number_of_books": 3,
+    "genre": "fantasy"
+  },
+  {
+    "id": 2,
+    "author": "Dasie Grise",
+    "title": "Fighting",
+    "year_of_pub": null,
+    "lang": "Gujarati",
+    "number_of_books": null,
+    "genre": "fantasy"
+  },
+  {
+    "id": 3,
+    "author": "Gilberto Le Pruvost",
+    "title": "Women on the Verge of a Nervous Breakdown (Mujeres al borde de un ataque de nervios)",
+    "year_of_pub": null,
+    "lang": "Indonesian",
+    "number_of_books": 6,
+    "genre": "fantasy"
+  },
+  {
+    "id": 4,
+    "author": "Ginger Cregg",
+    "title": "Glowing Stars",
+    "year_of_pub": null,
+    "lang": "Bengali",
+    "number_of_books": null,
+    "genre": "cooking"
+  },
+  {
+    "id": 5,
+    "author": "Mariska Sefton",
+    "title": "The Damned",
+    "year_of_pub": 2012,
+    "lang": "Zulu",
+    "number_of_books": 5,
+    "genre": "crime"
+  },
+  {
+    "id": 6,
+    "author": "Dalston Dockwray",
+    "title": "King Solomon's Mines",
+    "year_of_pub": 2001,
+    "lang": "Hindi",
+    "number_of_books": 7,
+    "genre": "crime"
+  },
+  {
+    "id": 7,
+    "author": "Borden Heatly",
+    "title": "Treasure Island",
+    "year_of_pub": 2008,
+    "lang": "Dutch",
+    "number_of_books": null,
+    "genre": "crime"
+  },
+  {
+    "id": 8,
+    "author": "Ernestine McWhan",
+    "title": "Seeker: The Dark Is Rising, The",
+    "year_of_pub": null,
+    "lang": "Fijian",
+    "number_of_books": null,
+    "genre": "fantasy"
+  },
+  {
+    "id": 9,
+    "author": "Doloritas Hounsom",
+    "title": "Golem, The (Golem, wie er in die Welt kam, Der)",
+    "year_of_pub": 1985,
+    "lang": "Macedonian",
+    "number_of_books": 5,
+    "genre": "fantasy"
+  },
+  {
+    "id": 10,
+    "author": "Miquela Tieman",
+    "title": "Shark Night 3D",
+    "year_of_pub": 1996,
+    "lang": "Estonian",
+    "number_of_books": 10,
+    "genre": "crime"
+  },
+  {
+    "id": 11,
+    "author": "Aurea Hadwick",
+    "title": "Little Girl Who Conquered Time, The (Toki o kakeru shôjo)",
+    "year_of_pub": 2012,
+    "lang": "Kyrgyz",
+    "number_of_books": null,
+    "genre": "fantasy"
+  },
+  {
+    "id": 12,
+    "author": "Jarrett Emmett",
+    "title": "Love Is All There Is",
+    "year_of_pub": null,
+    "lang": "Greek",
+    "number_of_books": 2,
+    "genre": "cooking"
+  },
+  {
+    "id": 13,
+    "author": "Fabian Clinkard",
+    "title": "Atomic Brain, The",
+    "year_of_pub": 2010,
+    "lang": "Zulu",
+    "number_of_books": 7,
+    "genre": "crime"
+  },
+  {
+    "id": 14,
+    "author": "Hussein Greeson",
+    "title": "Any Day Now",
+    "year_of_pub": null,
+    "lang": "Finnish",
+    "number_of_books": 3,
+    "genre": "fantasy"
+  },
+  {
+    "id": 15,
+    "author": "Gabi Humpage",
+    "title": "31 North 62 East",
+    "year_of_pub": 1985,
+    "lang": "Assamese",
+    "number_of_books": 4,
+    "genre": "cooking"
+  },
+  {
+    "id": 16,
+    "author": "Georgi Blaschek",
+    "title": "War of the Robots (La guerra dei robot)",
+    "year_of_pub": null,
+    "lang": "Macedonian",
+    "number_of_books": 10,
+    "genre": "cooking"
+  },
+  {
+    "id": 17,
+    "author": "Astrix Dorro",
+    "title": "Finding Nemo",
+    "year_of_pub": 2000,
+    "lang": "Assamese",
+    "number_of_books": null,
+    "genre": "fantasy"
+  },
+  {
+    "id": 18,
+    "author": "Bentley Starie",
+    "title": "Very Brady Sequel, A",
+    "year_of_pub": null,
+    "lang": null,
+    "number_of_books": 3,
+    "genre": "fantasy"
+  },
+  {
+    "id": 19,
+    "author": "Julia Perrington",
+    "title": "Baarìa",
+    "year_of_pub": 2008,
+    "lang": "Dari",
+    "number_of_books": 4,
+    "genre": "fantasy"
+  },
+  {
+    "id": 20,
+    "author": "Bernetta Elwill",
+    "title": "Khartoum",
+    "year_of_pub": 1998,
+    "lang": "Catalan",
+    "number_of_books": 2,
+    "genre": "fantasy"
+  },
+  {
+    "id": 21,
+    "author": "Cordi Guitonneau",
+    "title": "Moebius Redux: A Life in Pictures",
+    "year_of_pub": 2001,
+    "lang": "Icelandic",
+    "number_of_books": 7,
+    "genre": "fantasy"
+  },
+  {
+    "id": 22,
+    "author": "Pen Tante",
+    "title": "Floundering",
+    "year_of_pub": null,
+    "lang": "Portuguese",
+    "number_of_books": 7,
+    "genre": "fantasy"
+  },
+  {
+    "id": 23,
+    "author": "Creigh MacDwyer",
+    "title": "Letzte schöne Herbsttag, Der",
+    "year_of_pub": 2008,
+    "lang": "Marathi",
+    "number_of_books": null,
+    "genre": "cooking"
+  },
+  {
+    "id": 24,
+    "author": "Fairfax Engelmann",
+    "title": "Ninja Assassin",
+    "year_of_pub": 2013,
+    "lang": null,
+    "number_of_books": null,
+    "genre": "fantasy"
+  },
+  {
+    "id": 25,
+    "author": "Elicia Biddlecombe",
+    "title": "Samurai I: Musashi Miyamoto (Miyamoto Musashi)",
+    "year_of_pub": 2006,
+    "lang": "Guaraní",
+    "number_of_books": 3,
+    "genre": "fantasy"
+  },
+  {
+    "id": 26,
+    "author": "Patty Danielou",
+    "title": "Kids",
+    "year_of_pub": 1994,
+    "lang": "Italian",
+    "number_of_books": 7,
+    "genre": "cooking"
+  },
+  {
+    "id": 27,
+    "author": "Devy Paish",
+    "title": "Made in Heaven",
+    "year_of_pub": null,
+    "lang": "Croatian",
+    "number_of_books": 3,
+    "genre": "fantasy"
+  },
+  {
+    "id": 28,
+    "author": "Filbert MacAllister",
+    "title": "Accidents Happen",
+    "year_of_pub": null,
+    "lang": "Latvian",
+    "number_of_books": null,
+    "genre": "crime"
+  },
+  {
+    "id": 29,
+    "author": "Trevar Whitty",
+    "title": "La guerre des tuques",
+    "year_of_pub": null,
+    "lang": "Gujarati",
+    "number_of_books": 2,
+    "genre": "cooking"
+  },
+  {
+    "id": 30,
+    "author": "Emeline Yansons",
+    "title": "Liability, The",
+    "year_of_pub": 1995,
+    "lang": "Malagasy",
+    "number_of_books": null,
+    "genre": "cooking"
+  },
+  {
+    "id": 31,
+    "author": "Prentice Brok",
+    "title": "Land of the Dead",
+    "year_of_pub": 2009,
+    "lang": "Finnish",
+    "number_of_books": 7,
+    "genre": "crime"
+  },
+  {
+    "id": 32,
+    "author": "Martita Cristofori",
+    "title": "Tell No One (Ne le dis à personne)",
+    "year_of_pub": 1995,
+    "lang": "Armenian",
+    "number_of_books": 10,
+    "genre": "crime"
+  },
+  {
+    "id": 33,
+    "author": "Nickolai Sheber",
+    "title": "I Am Bruce Lee",
+    "year_of_pub": 1999,
+    "lang": "Burmese",
+    "number_of_books": null,
+    "genre": "cooking"
+  },
+  {
+    "id": 34,
+    "author": "Chrissie Predohl",
+    "title": "Cruel Intentions 3",
+    "year_of_pub": null,
+    "lang": "Azeri",
+    "number_of_books": 1,
+    "genre": "fantasy"
+  },
+  {
+    "id": 35,
+    "author": "Sherlock Canby",
+    "title": "Herbie Rides Again",
+    "year_of_pub": 2012,
+    "lang": "Luxembourgish",
+    "number_of_books": 5,
+    "genre": "cooking"
+  }
+]
